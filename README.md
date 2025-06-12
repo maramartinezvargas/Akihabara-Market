@@ -244,7 +244,7 @@ Estructura de carpetas recomendada para la ejecución:
    - `AkihabaraMarket_grafica.bat` → interfaz gráfica  
    - `AkihabaraMarket_dual.bat` → selecciona modo al iniciar  
    
-** Posibles errores al ejecutar la aplicación:**
+**Posibles errores al ejecutar la aplicación:**
 
 - Si ves un mensaje de error sobre conexión:
     - Revisa que el archivo `config.properties` esté en la misma carpeta.
@@ -254,7 +254,7 @@ Estructura de carpetas recomendada para la ejecución:
     - Revisa si la API Key es válida y está bien copiada.
     - Asegúrate de tener acceso a internet.
  
-** Alternativa de ejecución: Ejecutar desde terminal (sin archivos `.bat`)**
+**Alternativa de ejecución: Ejecutar desde terminal (sin archivos `.bat`)**
 
 Si no estás en Windows o prefieres lanzar los `.jar` manualmente desde la terminal o consola, puedes hacerlo así, teniendo cmd en la ubicación donde se encuentran los jar:
 
