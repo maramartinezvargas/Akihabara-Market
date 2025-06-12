@@ -127,10 +127,10 @@ Se ha incluido la dependencia Maven del conector mysql en el `pom.xml`:
 - Debe crearse manualmente un archivo llamado `config.properties` con el siguiente contenido
 
 ```
-db.url=jdbc:mysql://localhost:3306/akihabara_db
+db.url=jdbc:mysql://localhost:3306/akihabara_db # Verifica el puerto correcto en tu caso.
 db.user=tu_usuario_de_la_BD # El usuario debe tener permisos de CRUD sobre la BD
 db.password=contraseña_del_usuario
-apiKey=tu-apiKey-del-LLM-OpenRouter #Como ya se ha explicado antes1
+apiKey=tu-apiKey-del-LLM-OpenRouter #Como se explica en el siguiente punto.
 ```
 - El usuario debe tener permisos de lectura y escritura sobre la base de datos. 
 
