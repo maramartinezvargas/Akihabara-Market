@@ -51,12 +51,6 @@ Incluye integración con un modelo de lenguaje (LLM) como asistente de IA.
 - Eclipse IDE
 
 ---
-## Repositorio Git Hub:
-
-- Este proyecto se encuentra versionado en el siguiente enlace de GitHub:
-[https://github.com/maracampusfp/Akihabara-Market.git](https://github.com/maracampusfp/Akihabara-Market.git)
-
----
 ## Estructura del Proyecto
 - Se han implementado los siguientes archivos en el proyecto Java Maven:
 
